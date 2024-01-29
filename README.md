@@ -1,7 +1,7 @@
 # Bangalore House Price Prediction
  ### Dataset: https://www.kaggle.com/datasets/aryanfelix/bangalore-housing-prices
  
-The Bangalore House Price Prediction project is a comprehensive solution leveraging Python-based tools and technologies to predict house prices in various neighborhoods of Bangalore. The project involves data cleaning and exploration using Numpy and Pandas, visualization of key insights with Matplotlib, and the development of a machine learning model using Scikit-learn. The model is trained on a dataset containing diverse features such as location, size, amenities, and more, enabling accurate predictions of house prices.
+The Bangalore House Price Prediction project is a comprehensive solution leveraging Python-based tools and technologies to predict house prices in various neighborhoods of Bangalore. The project involves data cleaning and exploration using Numpy and Pandas, visualization of key insights with Matplotlib, and the development of a machine learning model using Scikit-learn. The model is trained on a dataset containing diverse features such as location, size, amenities, and more, enabling accurate predictions of house prices. Additionally, I gained Knowledge on version control using Git, HTLM and as well as API frameworks like Flask.
 
 ## Key Features:
 ### 1.Data Cleaning and Exploration:
